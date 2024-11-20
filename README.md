@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aliounebadaradiop1999@gmail.com
 - 😄 Pronouns: Alioune Badara Diop 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 sankarajr/sankarajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
